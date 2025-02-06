@@ -14,8 +14,8 @@ Certifique-se de ter instalado em sua máquina:
 ## Instalação e Execução
 ### 1. Clonar o repositório
 ```sh
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/LucasGabrielLadeira/crud-angular.git
+cd crud-angular
 ```
 
 ### 2. Instalar as dependências do Angular
