@@ -1,19 +1,39 @@
 {
-  "Products": [
+  "products": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Caneta",
-      "price": 5.89
+      "price": "9"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Notebook MAC",
-      "price": 12000.00
+      "price": 12000
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Sansung Galaxy",
-      "price": 5000.00
+      "price": 5000
+    },
+    {
+      "id": "4",
+      "name": "Caneta Esferográfica BIC",
+      "price": 200
+    },
+    {
+      "id": "5",
+      "name": "Notebook Intel",
+      "price": "1600"
+    },
+    {
+      "id": "6",
+      "name": "teste",
+      "price": "1000"
+    },
+    {
+      "id": "7",
+      "name": "aa",
+      "price": "123"
     }
   ]
 }

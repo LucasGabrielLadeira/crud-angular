@@ -1,0 +1,19 @@
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+form button{
+    display: inline;
+}
+
+.button-container{
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.card{
+    padding: 16px;
+}
